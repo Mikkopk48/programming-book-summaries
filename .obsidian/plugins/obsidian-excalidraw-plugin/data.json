@@ -280,7 +280,7 @@
   "areaZoomLimit": 1,
   "autoExportLightAndDark": false,
   "autoexportExcalidraw": false,
-  "autoexportPNG": false,
+  "autoexportPNG": true,
   "autoexportSVG": false,
   "autosaveIntervalDesktop": 60000,
   "autosaveIntervalMobile": 30000,
