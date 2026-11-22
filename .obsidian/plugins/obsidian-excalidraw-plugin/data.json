@@ -282,7 +282,7 @@
   "autoexportExcalidraw": false,
   "autoexportPNG": true,
   "autoexportSVG": false,
-  "autosaveIntervalDesktop": 60000,
+  "autosaveIntervalDesktop": 120000,
   "autosaveIntervalMobile": 30000,
   "autostartScriptFailures": {},
   "autostartScripts": {},
